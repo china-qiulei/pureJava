@@ -12,6 +12,7 @@
         <module>threeStone-algorithm</module>
         <module>threeStone-ssm</module>
         <module>threeStone-jvm</module>
+        <module>threeStone-basis</module>
     </modules>
 
     <properties>
